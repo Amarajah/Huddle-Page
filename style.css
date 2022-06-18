@@ -500,4 +500,8 @@ a:hover{
     .sec3{
         margin-bottom: 50px;
     }
+    @media screen and (max-width: 1440px) {
+    body{
+        width: 100%;
+    }
     }
